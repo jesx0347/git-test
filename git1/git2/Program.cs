@@ -11,6 +11,7 @@ namespace git2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git1");
+            Console.WriteLine("change! ");
             Console.ReadKey();
         }
     }
